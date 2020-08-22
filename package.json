@@ -1,0 +1,23 @@
+{
+  "name": "@kegovc/schema2joi",
+  "version": "1.0.5",
+  "description": "",
+  "main": "lib/schema2joi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "joi",
+    "schema2joi",
+    "kegovc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kegovc/demeter/tree/master/schema2joi"
+  },
+  "author": "KEGOVC <octaviovcruz@hotmail.com> (http://kegovc.com)",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "17.2.0"
+  }
+}

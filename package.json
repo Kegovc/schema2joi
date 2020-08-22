@@ -1,6 +1,6 @@
 {
   "name": "@kegovc/schema2joi",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "lib/schema2joi.js",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kegovc/demeter/tree/master/schema2joi"
+    "url": "https://github.com/Kegovc/schema2joi"
   },
   "author": "KEGOVC <octaviovcruz@hotmail.com> (http://kegovc.com)",
   "license": "MIT",

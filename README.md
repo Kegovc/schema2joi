@@ -1,6 +1,16 @@
 # @kegovc/schema2joi
 
-**A layer between Joi and your implementation in order to have a dynamic validation scheme**
+**A layer between Joi and your implementation in order to have a dynamic validation schema**
+## Installation
+
+```sh
+npm install schema2joi
+```
+#####or
+
+```sh
+yarn add schema2joi
+```
 
 ### Example
 
